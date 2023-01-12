@@ -23,5 +23,5 @@
 ---
 
 ### 📈 My Stats :
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorktech&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/igorktech?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
