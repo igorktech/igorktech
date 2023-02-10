@@ -29,4 +29,4 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech?theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech?theme=dark" />  -->
 </div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
