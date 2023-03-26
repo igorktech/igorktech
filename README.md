@@ -18,6 +18,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupiter" alt="Jupiter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-plain-wordmark.svg" title"LabView" alt="LabView" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-line.svg" title"Matlab" alt="Matlab" width="40" height="40"/>
 </div>
 
 ---
