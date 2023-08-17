@@ -9,7 +9,6 @@
 <h1 align="center">
 😄👍🐳🧠🕸️
 </h1>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
