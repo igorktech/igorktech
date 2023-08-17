@@ -31,7 +31,7 @@
 <div align="center" style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=dark" />
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&hide_progress=true)
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=igorktech&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
    -->
 <div align="center" style="display: flex; flex-direction: row;">
