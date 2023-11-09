@@ -28,7 +28,7 @@
 
 ### 📈 My Stats :
 <!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/igorktech?cardType=level&theme=dark)](https://git.io/awesome-stats-card) -->
-<!--<div align="center" style="display: flex; flex-direction: row;">
+<!--<div align="center" style="display: flex; flex-direction: row; margin: 0; padding: 0;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&hide_progress=true"/>
 </div>-->
 
