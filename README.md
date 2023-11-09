@@ -33,6 +33,6 @@
 </div>-->
 
 <div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://awesome-github-stats.azurewebsites.net/user-stats/igorktech?cardType=level&theme=dark" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=dark" />
+ <img class="img" src="https://awesome-github-stats.azurewebsites.net/user-stats/igorktech?cardType=level&theme=dark" style="width: auto; height: 200px; object-fit: cover;" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=dark"  style="width: auto; height: 200px; object-fit: cover;"/>
 </div>
