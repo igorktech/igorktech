@@ -37,7 +37,7 @@
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=dark"  style="width: auto; height: 200px; object-fit: cover;"/>
 </div>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorktech/igorktech/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorktech/igorktech/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igorktech/igorktech/output/github-contribution-grid-snake.svg">
