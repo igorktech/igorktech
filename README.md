@@ -36,9 +36,11 @@
  <img class="img" src="https://awesome-github-stats.azurewebsites.net/user-stats/igorktech?cardType=level&theme=dark" style="width: auto; height: 200px; object-fit: cover;" />
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorktech&layout=compact&theme=dark"  style="width: auto; height: 200px; object-fit: cover;"/>
 </div>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorktech/igorktech/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorktech/igorktech/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-![snake-svg](https://github.com/igorktech/igorktech/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<!-- https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+![snake-svg](https://github.com/igorktech/igorktech/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
